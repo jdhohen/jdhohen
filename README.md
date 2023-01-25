@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jdhohen
-- 👀 I’m interested in solving agricultural problems
+- 👀 I’m interested in solving biological problems
 - 🌱 I’m currently learning R and about Data Science
 - 💞️ I’m looking to collaborate on projects when I've learned a bit more
 - 📫 How to reach me: send me a message!
